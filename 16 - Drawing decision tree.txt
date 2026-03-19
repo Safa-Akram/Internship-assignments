@@ -1,0 +1,12 @@
+#Assignment 16: Draw a Decision tree
+
+
+            Weather?
+           /       \
+       Sunny       Rainy
+       /             \
+   Temperature?      Don't Play
+    /        \
+ Hot          Mild
+  |             |
+Don't Play     Play

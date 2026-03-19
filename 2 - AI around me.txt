@@ -1,0 +1,40 @@
+Assignment (09/02/2026)
+Assignment Name: AI Around Me
+
+Objective:
+	To identify real-life applications of Artificial Intelligence used in daily life and understand the role of Machine Learning behind each application.
+
+Description:
+	The following are ten real-life AI applications that are commonly used in day-to-day activities along with a brief explanation of how Machine Learning works in each case.
+
+List of AI Applications:
+
+Google Search Engine
+Machine Learning algorithms analyze user queries and past search behavior to provide the most relevant search results.
+
+YouTube Recommendation System
+ML models study watch history, likes, and viewing patterns to recommend personalized videos.
+
+Face Recognition in Smartphones
+Deep learning techniques are used to extract facial features and match them with stored data for secure authentication.
+
+Google Maps and Navigation Systems
+Machine Learning predicts traffic conditions and optimal routes using real-time and historical location data.
+
+Email Spam Detection
+ML classifiers learn from previous spam and non-spam emails to automatically filter unwanted messages.
+
+Voice Assistants (Google Assistant, Siri, Alexa)
+Speech recognition and Natural Language Processing models interpret voice commands and generate appropriate responses.
+
+Netflix Recommendation System
+Machine Learning analyzes viewing history and preferences to suggest movies and TV shows.
+
+Autocorrect and Predictive Text
+Language models predict the next word and correct spelling based on commonly used word patterns.
+
+Online Shopping Recommendations
+ML algorithms recommend products by analyzing user browsing behavior and purchase history.
+
+Social Media Feeds (Instagram, Facebook)
+Machine Learning prioritizes posts in the feed by analyzing user interactions such as likes, shares, and comments.

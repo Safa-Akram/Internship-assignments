@@ -1,0 +1,122 @@
+📌 Objective
+
+To suggest Machine Learning problems in different domains and clearly define the Input → Output for each problem.
+
+🏫 1️⃣ College Domain
+Problem: Student Performance Prediction
+
+Description:
+Predict whether a student will pass or fail based on academic and attendance data.
+
+Input → Output
+
+Input:
+
+Attendance percentage
+
+Previous semester marks
+
+Study hours per week
+
+Assignment completion rate
+
+Internal test marks
+
+Output:
+
+Pass / Fail
+OR
+
+Predicted Final Grade
+
+Problem: Placement Prediction System
+
+Description:
+Predict whether a student will get placed based on skills and performance.
+
+Input → Output
+
+Input:
+
+CGPA
+
+Technical skills
+
+Internship experience
+
+Aptitude score
+
+Communication score
+
+Output:
+
+Placed / Not Placed
+
+🏥 2️⃣ Healthcare Domain
+Problem: Disease Prediction System
+
+Description:
+Predict possible disease based on symptoms.
+
+Input → Output
+
+Input:
+
+Fever (Yes/No)
+
+Blood pressure
+
+Sugar level
+
+Age
+
+Symptoms list
+
+Output:
+
+Predicted Disease (e.g., Diabetes, Flu, Hypertension)
+
+Problem: Hospital Readmission Prediction
+
+Description:
+Predict whether a patient may be readmitted within 30 days.
+
+Input → Output
+
+Input:
+
+Patient age
+
+Medical history
+
+Number of previous admissions
+
+Diagnosis
+
+Treatment type
+
+Output:
+
+Readmission Risk (High / Low)
+
+🛍 3️⃣ Shopping / E-Commerce Domain
+Problem: Product Recommendation System
+
+Description:
+Recommend products based on user behavior.
+
+Input → Output
+
+Input:
+
+Previous purchases
+
+Browsing history
+
+Cart items
+
+Ratings given
+
+Output:
+
+Recommended Products List
