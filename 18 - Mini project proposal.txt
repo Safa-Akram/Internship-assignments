@@ -1,0 +1,19 @@
+Mini Project Proposal
+
+Title: Student Performance Prediction
+
+Problem
+Predict student performance based on study habits and academic data.
+
+Dataset
+Study hours
+Attendance
+Previous marks
+Assignments completed
+
+Algorithm
+Linear Regression
+
+Expected Output
+Predicted marks
+Pass/Fail prediction
