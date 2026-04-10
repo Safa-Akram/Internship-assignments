@@ -1,0 +1,30 @@
+5 Uses of Face/Object Detection
+
+Face unlock in mobile phones
+Attendance system using face recognition
+Self-driving cars detecting pedestrians
+Security surveillance systems
+Object detection in shopping (billing without cashier)
+
+
+- Designed Solution
+
+Title: Smart Attendance System using Face Detection
+
+Description:
+A system that uses a camera to detect and recognize faces of students. When a student enters the classroom, their face is detected and matched with stored data, and attendance is automatically marked.
+
+
+Working:
+
+Capture face using camera
+Detect face using OpenCV
+Match with stored dataset
+Mark attendance in system
+
+
+Advantages:
+
+Saves time
+No manual attendance
+More accurate
